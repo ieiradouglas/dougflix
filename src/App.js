@@ -15,7 +15,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"A MYLLENA É A NAMORADA MAIS LINDA DO MUNDO!"}
+        videoDescription={"O que é Front-end? Trabalhando na área de Front-end."}
       />
 
       <Carousel
